@@ -2,4 +2,43 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background-color: blue;
+  background-image: url("../src/smurfvillage.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+
+header {
+  font-size: 45px;
+  background: -webkit-linear-gradient(#0000FF, #00FFFF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Comic Sans MS", cursive, sans-serif;	
+}
+
+
+
+
+h1 {
+  font-size: 45px;
+  background: -webkit-linear-gradient(#0000FF, #00FFFF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Comic Sans MS", cursive, sans-serif;	
+
+}
+
+p {
+  background: -webkit-linear-gradient(#00FFFF, #00008B );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Comic Sans MS", cursive, sans-serif;	
+  font-size: 25px;
+}
+
+img.picture {
+  size: 100%;
+
+}
+
+
